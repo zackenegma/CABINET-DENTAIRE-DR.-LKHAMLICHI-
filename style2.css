@@ -1,0 +1,38 @@
+header{
+    background-color: #87986a;
+    
+    width: 100%;
+}
+
+b{
+    font-weight: 200px;
+    font-size: 100%;
+}
+#intro  h2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+ img{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  padding: 10px;
+  border : 20px solid #87986a;
+  width: fit-content;
+
+  
+  
+}
+
+
+p{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
